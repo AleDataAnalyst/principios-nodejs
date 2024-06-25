@@ -4,9 +4,9 @@
     "description": "",
     "main": "1.http.js",
     "scripts": {
-      "dev:1": "nodemon 1.http.js",
-      "dev:2": "nodemon 2.routing.js",
-      "dev:3": "node --watch 3.express.js"
+      "dev:1": "nodemon 1http.js",
+      "dev:2": "nodemon 2routing.js",
+      "dev:3": "node --watch 3express.js"
     },
     "keywords": [],
     "author": "",
